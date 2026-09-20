@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "420727519dd32539b27219ca",
+  "owner": "pupnjnqu",
+  "repo": "page-43aa52e98e455066d8a7b165",
+  "title": "星愿云(SWCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "43aa52e98e455066d8a7b165",
+      "a": "星愿云(SWCloud)",
+      "b": "稳定全球clash加速器",
+      "entity": "星愿云(SWCloud)",
+      "brand": "星愿云(SWCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "d1ec5c75e3a45a65c609a25679482aa8b319e9ee36729fae12beeeaa91c73d0e",
+      "content": {
+        "primary_entity": "星愿云(SWCloud)",
+        "keyword1": "星愿云(SWCloud)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，围绕 Clash 订阅方式提供多种线路与套餐组合。基础版适合个人日常轻量使用，旗舰版在流量、设备数与专线节点上更为宽裕，团队版面向多设备协同场景。用户可根据设备数量与流媒体、游戏需求选择档位，并按客户端文档导入订阅。",
+          "AI_HERO_SUBTITLE": "星愿云多端订阅加速方案",
+          "AI_HERO_INTRO": "星愿云(SWCloud)提供适配 Clash 客户端的订阅服务，按基础版、旗舰版与团队版划分流量与设备额度。用户可结合自身设备数量、流媒体与游戏需求选择套餐，并在对应客户端中完成订阅配置。",
+          "AI_VISUAL_TITLE": "星愿云套餐灵活可选",
+          "AI_HIGHLIGHT_1": "基础版月付15元含100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版支持5台设备与专线优化",
+          "AI_HIGHLIGHT_3": "团队版1000GB支持20台设备",
+          "AI_FEATURES_TITLE": "套餐与配置要点",
+          "AI_FEATURES_INTRO": "依据使用强度和设备规模挑选合适的订阅档位。",
+          "AI_FEATURE_TITLE_1": "按设备数量选择",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备，旗舰版支持5台，团队版最多支持20台设备同时在线。",
+          "AI_FEATURE_TITLE_2": "按流量需求选择",
+          "AI_FEATURE_TEXT_2": "基础版每月100GB，旗舰版每月300GB，团队版每月1000GB，可按使用强度匹配。",
+          "AI_FEATURE_TITLE_3": "按订阅周期选择",
+          "AI_FEATURE_TEXT_3": "月付灵活，按年付基础版150元、旗舰版350元、团队版850元，适合长期使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统选择合适的 Clash 客户端并导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版15元/月含100GB，旗舰版35元/月含300GB并支持IPLC优化，团队版85元/月含1000GB。",
+          "AI_GUIDE_TITLE": "配置步骤",
+          "AI_GUIDE_INTRO": "按选择服务、查看适配要求、依客户端文档配置订阅的顺序操作。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与流量需求，在基础版、旗舰版与团队版之间选定套餐。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用系统所支持的 Clash 客户端版本和订阅导入方式。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "参照对应客户端文档，将订阅信息导入并完成节点连接设置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐轻松连接",
+          "AI_CLOSING_TEXT": "结合设备数量和流量需求选定档位，按客户端文档完成订阅配置即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "星愿云(SWCloud)三个套餐有什么区别？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备，含 IPLC 专线优化与流媒体解锁；团队版每月 1000GB、20 台设备，含 VIP 高带宽节点与定制路由。",
+          "AI_FAQ_QUESTION_2": "一台设备可以同时使用多个客户端吗？",
+          "AI_FAQ_ANSWER_2": "设备在线数按同时连接的终端计算，同一台设备切换客户端通常占用一个在线名额。超出套餐设备数时，需要先断开其他终端。",
+          "AI_FAQ_QUESTION_3": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150，相当于按年节省部分月付合计；旗舰版年付 ¥350，团队版年付 ¥850。长期使用选择年付更划算。",
+          "AI_FAQ_QUESTION_4": "订阅配置导入后无法连接怎么办？",
+          "AI_FAQ_ANSWER_4": "先确认订阅是否已更新到最新节点，再检查客户端版本与设备系统版本。必要时删除旧配置重新导入订阅地址。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版支持 20 台设备同时在线与每月 1000GB 流量，适合多人协作、多设备办公或对高带宽节点有需求的团队使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "chonganrc.cn",
+    "host": "chonganrc.cn"
+  },
+  "file_hashes": {
+    "index.html": "730a05f62e0f2312bfee3671d992cff00e77fcaecd8e8543ba976a00a64d80f0",
+    "sitemap.xml": "48b99b37736c3cd586a31085a0f68b8e2fa1493827d10de3a6b451e8d6ce6af0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f9e270a0580f93d50c9168d55ee34eceafe7a416fdaf631524f3cdd778aa5a66",
+    "robots.txt": "b3ea007658252388542171b11b5a1538d120b4d4c255d5cb01f54bb6d09ce95f",
+    "cc91e936433c2167d2512e4e4b9e6c1b.txt": "02c99a58043b3c8a37bcd9e3367521e7805f75497d9764efd4cf6d4e0cb5c6bf"
+  },
+  "revision": "151a8cdc18231fa23e7433baecefd0bf5702ba49ef0df6849a94612b18d83f30"
+}
